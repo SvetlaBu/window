@@ -131,7 +131,7 @@ img {
 
 .welcome-section > p {
   font-size: 3rem;
-  font-weight: 200;
+  font-weight: 1000;
   font-style: italic;
   color: var(--main-red);
 }
@@ -187,7 +187,7 @@ img {
 }
 
 .project:hover {
-  scale: 1.2;
+  scale: 1.02;
 
   &::before {
     content: "кликните, чтобы рассмотреть детально";
